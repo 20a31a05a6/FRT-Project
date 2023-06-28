@@ -14,28 +14,31 @@ Build an educational website using Azure Static Web Apps and Azure CDN to provid
 Define the goals and objectives of your website,Identify the target audience and their needs,Create a content plan, including information, tips, and resources on sustainable living.Design a user-friendly interface and layout for the website.
 <h1>Screenshots</h1>
 <h1>Home page</h1>
-![Screenshot (29)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/e2829c6f-6a37-4e77-92ef-a5b08b3238bb)
+![Screenshot (29)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/45ed1942-9573-4009-9076-6c3074976365)
+
 
 
 <h1>Awareness Activity</h1>
-![Screenshot (31)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/fc041b15-23ff-469c-b54c-fa7d565daf08)
+![Screenshot (31)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/06c9e805-001c-429b-9434-dfc7d2b66d7d)
+
 
 
 <h1>About Sustainable Development</h1>
-![Screenshot (30)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/69114a74-22ed-4a41-8f1e-29b696fc17c5)
+![Screenshot (30)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/feb14ec1-b5dc-4cab-8a5e-1df84386471d)
+
 
 
 <h1>Our Goals</h1>
-![Screenshot (32)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/1ba28d33-89a4-4697-a274-b2de27023a70)
+![Screenshot (32)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/94f1079a-5299-46dd-8aa8-7187f1f6907a)
+
 
 <h1>Serices</h1>
-![Screenshot (33)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/0c5198dd-702d-478d-a3c0-1e79936ca4bd)
+![Screenshot (33)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/74349f12-d471-4714-89fc-c675803d288f)
+
 
 
 <h1>Solution for Causes</h1>
-
-![Screenshot (35)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/8fd5a3f5-4ad4-48b7-bce7-58a0892fac75)
-
+![Screenshot (34)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/3db0bbb1-9550-43d8-ac73-d56739dfcb0b)
 
 <h1>Contact Us</h1>
 
@@ -43,7 +46,9 @@ Define the goals and objectives of your website,Identify the target audience and
 
 
 <h1>ChatBot</h1>
-![Screenshot (35)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/27c3afcd-264c-408e-ab4f-06b73ac46445)
+
+![Screenshot (35)](https://github.com/20a31a05a6/FRT-Project/assets/109963842/61d0b2cb-54ef-4174-8152-d28298349d23)
+
 
 
 
